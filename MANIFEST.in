@@ -1,0 +1,3 @@
+recursive-include src/streamlit_portfolio_components/frontend *
+include README.md
+include LICENSE
